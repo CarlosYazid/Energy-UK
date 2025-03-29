@@ -218,7 +218,7 @@ ModelSignature(
 
 ## 12. Changelog
 
-### [1.0.0] - 2024-06-15
+### [1.0.0] - 2025-03-29
 - Initial release with LSTM and GRU models
 - Azure ML deployment pipelines
 - MLflow experiment tracking
@@ -227,8 +227,6 @@ ModelSignature(
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 14. Contact
-**Project Maintainer**: Carlos Yazid
+**Project Maintainer**: Carlos Yazid <br>
 **Email**: contact@carlospadilla.co  
 **Issue Tracking**: [Issues](https://github.com/CarlosYazid/Energy-UK/issues)  
-
-For enterprise support inquiries, please contact our partnerships team.
